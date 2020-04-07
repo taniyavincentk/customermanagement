@@ -3,7 +3,7 @@ This is my Training Project build on Eclipse IDE for Enterprise Java Developers.
 
 Login username:admin
 
-Login Password:qwerty
+Login Password:admin123
 
 Used Database sql query:
 CREATE DATABASE  IF NOT EXISTS `customer_db`;
